@@ -10,7 +10,7 @@ import java.net.Socket;
 
 public class JWindow extends JFrame {
     private final String WINDOW_TITLE = "Network chat";
-    private final int FORM_WIDTH = 600;
+    private final int FORM_WIDTH = 601;
     private final int FORM_HEIGHT = 400;
     private final String CLOSE_MESSAGE = "Do you really want to exit?";
     private final String INPUT_TEXT_LABEL = "Write a message";
